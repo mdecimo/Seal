@@ -231,12 +231,12 @@
     <string name="clear_temp_files_count">Deleted %1$d temporary file(s)</string>
     <string name="clear_temp_files_info">Temporary files can be used to resume cancelled downloads. Are you sure to delete all of these files?</string>
     <string name="multiselect_mode">Multiselect mode</string>
-    <string name="private_mode">Incognito mode</string>
+    <string name="private_mode">Incognito</string>
     <string name="private_mode_desc">Disable download history</string>
     <string name="dynamic_color">Dynamic color</string>
     <string name="dynamic_color_desc">Apply colors from wallpapers to the app theme</string>
     <string name="download_with_cellular">Download using cellular</string>
-    <string name="download_with_cellular_desc">Allow downloading media when connected to metered networks</string>
+    <string name="download_with_cellular_desc">Allow downloading when connected to metered networks</string>
     <string name="download_disabled_with_cellular">Downloading with cellular network is disabled according to your settings</string>
     <string name="file_unavailable">This file is no longer available</string>
     <string name="network">Network</string>
