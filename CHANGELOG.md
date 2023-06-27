@@ -137,6 +137,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - `Webview` captures Cookies from wrong domains
 - Notifications of custom commands remain unfinished status
+
 - App crashes when fails to parse video info for format selection
 - App crashes when parsing channel info for playlist download
 
